@@ -33,9 +33,12 @@ Solo necesitas un navegador web actualizado. *(Ej. Google Chrome, Mozilla Firefo
 
 ## 📸 Capturas de pantalla
 
-![Pantalla Principal](./d7ff75ec-cfc3-44ea-a774-b13c104cff10.png)
-![Lista de Participantes](./d2375b91-457d-440b-baba-e76e7374eaba.png)
-![Resultado del Sorteo](./8e3d9536-e106-4342-b0b3-8a6b13f6bc5c.png)
+![pantallaPrincipal](https://github.com/user-attachments/assets/91cc3b16-d20d-43ee-9b55-5b554ac01d32)
+
+<img width="2047" height="1120" alt="agregandoNombres" src="https://github.com/user-attachments/assets/3ca98a1a-bcef-4ac9-84ce-dfba8c198af0" />
+
+<img width="2048" height="1149" alt="sorteoAmigo" src="https://github.com/user-attachments/assets/64b10efa-9594-4406-9fbb-53a9b9f6812a" />
+
 
 ---
 
