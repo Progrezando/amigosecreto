@@ -69,8 +69,11 @@ function actualizarLista(){
 }
 
 function sortearAmigo(){
-    amigoSecreto = Math.floor(Math.random()*amigos.length);
-    const li = document.createElement("li");
-    li.textContent = `El migo secreto sorteado es: ${amigos[amigoSecreto]}`;
-    seleccionAmigo.appendChild(li);
+    console.log(amigos.length);
+    if (amigos.length === 0){
+        alert('No ha ingresado los nombres de los amigos a sortear');
+    }else{
+        amigoSecreto = Math.floor(Math.random()*amigos.length);
+        seleccionAmigo.innerHTML += `<li>El migo secreto sorteado es: ${amigos[amigoSecreto]}</li>`;
+    }
 }
