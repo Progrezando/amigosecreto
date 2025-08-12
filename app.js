@@ -74,6 +74,6 @@ function sortearAmigo(){
         alert('No ha ingresado los nombres de los amigos a sortear');
     }else{
         amigoSecreto = Math.floor(Math.random()*amigos.length);
-        seleccionAmigo.innerHTML += `<li>El migo secreto sorteado es: ${amigos[amigoSecreto]}</li>`;
+        seleccionAmigo.innerHTML += `<li>El amigo secreto sorteado es: ${amigos[amigoSecreto]}</li>`;
     }
 }
